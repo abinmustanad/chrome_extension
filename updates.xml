@@ -5,7 +5,8 @@
     <app appid="jepemafchpmcokaeplgememmkafcafhg">
 
         <updatecheck
-            codebase="https://github.com/abinmustanad/chrome_extension.crx"
+            codebase="https://abinmustanad.github.io/chrome_extension
+/chrome_extension.crx"
             version="1.1.1" />
 
     </app>
